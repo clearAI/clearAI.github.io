@@ -1,4 +1,4 @@
-##clear.ai
+## clear.ai
 
 10M Americans are visually impaired, 43% of them are unemployed. We're building low cost, high tech to help them day to day.
 
